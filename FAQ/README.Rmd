@@ -33,3 +33,4 @@ Sono 24 ore di laboratorio e 47 di studio individuale
 [Syllabus](../README.md)
 </div>
 ---
+#### Si svolgeranno delle prove intermedie durante il corso?
